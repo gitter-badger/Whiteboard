@@ -1,6 +1,8 @@
 Whiteboard
 ===
 
+[![Join the chat at https://gitter.im/agundy/Whiteboard](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/agundy/Whiteboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Whiteboard helps keep track of your homework and grades for your classes and allows groups to keep track of members grades for membership requirements.
 
 Getting Started:
